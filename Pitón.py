@@ -25,20 +25,6 @@ def kill_comments(sentence):
 
     return sentence
 
-# def loops(loop):
-#     if "para" in loop and "en" in loop:
-#         words=loop.split(" ")
-        
-#         for i in range(len(words)):
-#             if words[i]=="para":
-#                 words[i]="for"
-#             elif words[i]=="en":
-#                 words[i]="in"
-#             elif words[i]=="range":
-#                 words[i]="range"
-#     return ' '.join([str(elem) for elem in words])
-
-
     
 
         
