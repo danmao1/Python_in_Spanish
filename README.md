@@ -29,6 +29,84 @@ For, example: imprimir('imprimir') should translate to only the built-in funcito
  
  
  imprimir(redondear(a)) -> print(round(a))
+ ### Built-in functions:
+ cualquier => any
+
+todo => all
+
+metodoclase => classmethod
+
+compilar => compile
+
+dicc => dict
+
+elimatr => delattr
+
+enumerar => enumerate
+
+ejec => exec
+
+filtro => filter
+
+ayuda => help
+
+entrada => input
+
+larg => len
+
+lista => list
+
+mapa => map
+
+objecto => object
+
+revertido => reversed
+
+redondear => round
+
+partir => slice
+
+ordenado => sorted
+
+metodoestatico => staticmethod
+
+suma => sum
+
+tipo => type
+
+imprimir => print
+
+### Keywords:
+
+Falso => False
+
+desde => from
+
+importar => import
+
+en => in
+
+es => is
+
+Mada => None
+
+no => not
+
+pasar => pass
+
+retornar => return
+
+elevar => raise
+
+Verdadero => True
+
+intentar => try
+
+mientras => while
+
+con => with
+
+para => for
  
 ### How to run the program:
 The instructions below assume that python3 and pip3 refer to Python 3.x and Pip 3.x. Depending on how things are configured, you may need to use python and pip commands instead of python3 and pip3.
