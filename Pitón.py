@@ -5,7 +5,7 @@ import runpy
 
 
 builtin_functions={"cualquier":"any","todo":"all","metodoclase":"classmethod","compilar":"compile","dicc":"dict","elimatr":"delattr","enumerar":"enumerate","ejec":"exec","filtro":"filter","ayuda":"help","entrada":"input","larg":"len","lista":"list","mapa":"map","objecto":"object","revertido":"reversed","redondear":"round","partir":"slice","ordenado":"sorted","metodoestatico":"staticmethod","suma":"sum","tipo":"type","imprimir":"print"}
-keywords={"y":"and","o":"or","afirmar":"assert","romper":"break","classe":"class","continuar":"continue","elim":"del","ysi":"elif","si":"if","demas":"else","excepto":"except","Falso":"False","desde":"from","importar":"import","en":"in","es":"is","Mada":"None","no":"not","pasar":"pass","retornar":"return","elevar":"raise","Verdadero":"True","intentar":"try","mientras":"while","con":"with","para":"for"}
+keywords={"y":"and","o":"or","afirmar":"assert","romper":"break","classe":"class","continuar":"continue","elim":"del","ysi":"elif","si":"if","demas":"else","excepto":"except","Falso":"False","desde":"from","importar":"import","en":"in","es":"is","Nada":"None","no":"not","pasar":"pass","retornar":"return","elevar":"raise","Verdadero":"True","intentar":"try","mientras":"while","con":"with","para":"for"}
 
 
 def inside_something(item,keyword,charac,charac_close):
