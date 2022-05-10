@@ -88,7 +88,7 @@ en => in
 
 es => is
 
-Mada => None
+Nada => None
 
 no => not
 
